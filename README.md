@@ -5,3 +5,12 @@ Library includes:
 - ID3 Algorithm
 - Ensemble Learning
 - Linear Regression
+
+Decision Tree
+-------------
+-------------
+
+ID3
+-------
+
+This is an implementation of the ID3 algorithm.
