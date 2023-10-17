@@ -14,3 +14,13 @@ ID3
 -------
 
 This is an implementation of the ID3 algorithm.
+
+Ensemble Learning
+-----------------
+-----------------
+
+AdaBoost
+--------
+
+
+This is an implementation of the AdaBoost algorithm.
