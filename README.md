@@ -5,6 +5,7 @@ Library includes:
 - ID3 Algorithm
 - Ensemble Learning
 - Linear Regression
+- Perceptron
 
 Decision Tree
 -------------
@@ -24,3 +25,7 @@ AdaBoost
 
 
 This is an implementation of the AdaBoost algorithm.
+
+Perceptron
+-----------------
+-----------------
