@@ -1,0 +1,16 @@
+executable = run_prep.sh
+arguments = $(infile) $(gcdfile) $(outfile)
+
+output = out.out
+error = err.err
+
+universe = vanilla
+request_memory = 1GB
+request_disk = 1GB
+request_cpus = 1
+
++AccountingGroup = "uwa.$ENV(USER)"
+#+AccountingGroup = "sanctioned.$ENV(USER)"
+#+AccountingGroup = "1_week.$ENV(USER)"
+
+queue
